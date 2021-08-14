@@ -1,0 +1,2 @@
+FLASK_APP=mdxtunnel
+FLASK_ENV=development
